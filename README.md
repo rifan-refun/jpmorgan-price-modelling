@@ -59,5 +59,17 @@ notebooks/price_modelling.ipynb
 git clone https://github.com/rifan-refun/jpmorgan-price-modelling.git
 cd jpmorgan-price-modelling
 ```
+### **2. Install requirements**
+```bash
+pip install -r requirements.txt
+```
+### **3. Launch Jupyter Notebook**
+```bash
+jupyter notebook
+```
 
+### **4. Run jupyter notebook**
+```bash 
+notebooks/price_modelling.ipynb
+```
 
